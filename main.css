@@ -1,0 +1,25 @@
+body{
+  background-color: #ffe6ff;
+}
+#myProgress {
+  width: 100%;
+  background-color: #ddd;
+}
+
+#myBar {
+    width: 10%;
+    height: 30px;
+    background-color: #f99999;
+    text-align: center; 
+    line-height: 30px;
+    color: white;
+}
+
+button{
+	border:1px  solid #ffffff;
+	background:#f99999;
+	color: white;
+	font-size: 15px;
+  height: 30px;
+
+}
